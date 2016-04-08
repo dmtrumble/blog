@@ -208,8 +208,8 @@ img {
 .site-description {
   margin: -5px 0 0 0;
   color: $gray;
-  font-size: 18px;
-  font-family: $montserrat;
+  font-size: 16px;
+  font-family: $cardo;
 
   @include mobile {
     margin: 3px 0;
@@ -279,14 +279,16 @@ nav {
 
 .wrapper-footer {
   margin-top: 50px;
+  border-bottom: 1px solid #ddd;
 }
 
 footer {
   padding: 20px 0;
-  text-align: center;
-  border-top: 1px solid #ddd;
-  margin-left: 20px;
+  text-align: left;
   font-family: $montserrat;
+  font-size: 14px;
+  postion: fixed;
+  bottom: 0;
   a {
     color: $gray;
     }
