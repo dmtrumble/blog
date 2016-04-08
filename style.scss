@@ -34,7 +34,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $cardo;
+  font-family: $montserrat;
   font-weight: 600;
   color: $darkerGray;
   font-weight: bold;
@@ -209,6 +209,7 @@ img {
   margin: -5px 0 0 0;
   color: $gray;
   font-size: 18px;
+  font-family: $montserrat;
 
   @include mobile {
     margin: 3px 0;
@@ -218,7 +219,7 @@ img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $montserrat;
+  font-family: $cardo;
   font-size: 20px;
 
   @include mobile {
@@ -286,7 +287,9 @@ footer {
   border-top: 1px solid #ddd;
   margin-left: 20px;
   font-family: $montserrat;
-  color: $gray;
+  a {
+    color: $gray;
+    }
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
