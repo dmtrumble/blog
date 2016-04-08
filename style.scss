@@ -279,7 +279,6 @@ nav {
 
 .wrapper-footer {
   margin-top: 50px;
-  border-bottom: 1px solid #ddd;
 }
 
 footer {
@@ -287,7 +286,7 @@ footer {
   text-align: left;
   font-family: $montserrat;
   font-size: 14px;
-  postion: fixed;
+  position: fixed;
   bottom: 0;
   a {
     color: $gray;
