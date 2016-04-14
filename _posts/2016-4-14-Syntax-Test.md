@@ -37,5 +37,5 @@ Duis sit amet dui et mauris molestie aliquet. Curabitur pharetra erat in risus b
 ---
 
 [lnk-1]: http://www.google.com
-[img-1]: /images/config.png
+[img-1]: {{ site.baseurl }}/images/config.png
 <b id="f1">1</b> Pellentesque semper tellus eu lacus pellentesque malesuada.. [↩](#a1)
