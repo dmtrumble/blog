@@ -211,11 +211,10 @@ sub {
   a {
   text-decoration: none;
   cursor: pointer;
-  &:hover, &:active {
-    color: $inherit;
+    &:hover, &:active {
+      color: inherit;
+    }
   }
-}
-  
 }
 
 .site-description {
@@ -247,7 +246,7 @@ nav {
     color: $darkGray;
     text-align: right;
     font-weight: 300;
-    text-decoration:none;
+    text-decoration: none;
       &:hover, &:active {
         color: inherit;
       }
@@ -285,7 +284,7 @@ nav {
 }
 
 .article-date {
-  color: $grey;
+  color: $gray;
 }
 
 .post {
