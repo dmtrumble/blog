@@ -208,6 +208,13 @@ sub {
   font-weight: 600;
   font-size: 40px;
   letter-spacing: 0px;
+  a {
+  text-decoration: none;
+  cursor: pointer;
+  &:hover, &:active {
+    color: $inherit;
+  }
+}
   
 }
 
@@ -240,7 +247,10 @@ nav {
     color: $darkGray;
     text-align: right;
     font-weight: 300;
-
+    text-decoration:none;
+      &:hover, &:active {
+        color: $inherit;
+      }
     @include mobile {
       margin: 0 10px;
       color: $darkGray;
@@ -266,6 +276,16 @@ nav {
 .posts > .post:last-child {
   padding-bottom: 1em;
   border-bottom: none;
+}
+
+.home-link {
+  a {
+  text-decoration: none;
+  }
+}
+
+.article-date {
+  color: $grey
 }
 
 .post {
