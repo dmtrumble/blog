@@ -132,6 +132,12 @@ img {
   color: $gray;
 }
 
+.footnote {
+  color: $gray;
+  font-size: 12px;
+  margin: 1em;
+}
+
 // Specify the color of the selection
 ::-moz-selection {
   color: $black;
