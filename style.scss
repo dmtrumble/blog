@@ -249,7 +249,7 @@ nav {
     font-weight: 300;
     text-decoration:none;
       &:hover, &:active {
-        color: $inherit;
+        color: inherit;
       }
     @include mobile {
       margin: 0 10px;
