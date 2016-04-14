@@ -49,9 +49,6 @@ h1, h3, h4, h5, h6 {
 
 h1 {
   font-size: 26px;
-  a {
-    color: inherit;
-  }
 }
 
 h2 {
@@ -62,9 +59,6 @@ h2 {
   line-height: 1.4;
   margin: 5px 0 5px;
   padding: 0;
-  a {
-    color: inherit;
-  }
 }
 
 h3 {
@@ -81,11 +75,12 @@ p {
 }
 
 a {
-  color: $blue;
-  text-decoration: none;
+  color: inherit;
+  text-decoration: underline;
   cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: $gray;
+    text-decoration: none;
   }
 }
 
@@ -137,29 +132,18 @@ img {
   font-size: 12px;
   margin: 1em;
 }
+
 sub, sup {
-  /* Specified in % so that the sup/sup is the
-     right size relative to the surrounding text */
   font-size: 75%;
-
-  /* Zero out the line-height so that it doesn't
-     interfere with the positioning that follows */
   line-height: 0;
-
-  /* Where the magic happens: makes all browsers position
-     the sup/sup properly, relative to the surrounding text */
   position: relative;
-
 }
 
 sup {
-  /* Move the superscripted text up */
   top: -0.5em;
 }
 
 sub {
-  /* Move the subscripted text down, but only
-     half as far down as the superscript moved up */
   bottom: -0.25em;
 }
 
@@ -206,8 +190,6 @@ sub {
   }
 }
 
-
-
 .site-info {
   float: left;
 
@@ -224,7 +206,7 @@ sub {
   cursor: pointer;
   font-family: $cardo;
   font-weight: 600;
-  font-size: 32px;
+  font-size: 40px;
   letter-spacing: 0px;
   
 }
@@ -232,7 +214,7 @@ sub {
 .site-description {
   margin: -5px 0 0 0;
   color: $gray;
-  font-size: 16px;
+  font-size: 18px;
   font-family: $cardo;
 
   @include mobile {
@@ -276,7 +258,7 @@ nav {
   a {
   	color: $darkGray;
   	&:hover, &:active {
-  		text-decoration: underline;
+  		color: $gray;
   	}
   }
 }
@@ -322,4 +304,3 @@ footer {
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
-
