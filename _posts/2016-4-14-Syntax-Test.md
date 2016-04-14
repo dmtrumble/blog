@@ -1,8 +1,8 @@
 ﻿---
 layout: post
 title: A basic post showing all of the formatting options
-tags: typography, web design, jeckyll
 ---
+
 ## Nullam iaculis, libero non fermentum consequat, urna nunc fermentum
 
 
