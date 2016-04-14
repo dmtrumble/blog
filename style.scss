@@ -21,7 +21,7 @@ html {
 }
 
 body {
-	background: $white;
+  background: $white;
   font: 18px/1.1 $cardo;
   color: $darkGray;
 }
@@ -40,7 +40,7 @@ h1, h3, h4, h5, h6 {
   line-height: 1.4;
   margin: 1em 0 15px;
   padding: 0;
-  letter-spacing: -1px;
+  letter-spacing: -1.5px;
 
   @include mobile {
     line-height: 1.4;
@@ -62,7 +62,6 @@ h2 {
   line-height: 1.4;
   margin: 1em 0 15px;
   padding: 0;
-  letter-spacing: -1px;  
   a {
     color: inherit;
   }
@@ -243,6 +242,12 @@ nav {
 .posts > .post {
   padding-bottom: 1em;
   border-bottom: 1px solid $lightGray;
+  a {
+  	color: inherit;
+  	&:hover, &:active {
+  		text-decoration: underline;
+  	
+  }
 }
 
 .posts > .post:last-child {
@@ -256,7 +261,7 @@ nav {
     border-left: 2px solid $gray;
     padding: 0.1em 1em;
     color: $gray;
-    font-size: 22px;
+    font-size: 18px;
     font-style: italic;
   }
 
@@ -264,12 +269,6 @@ nav {
     margin-top: 10px;
   }
 
-  .read-more {
-    font-style: italic;
-    font-size: 14px;
-    text-align: right;
-    font-weight: 600;
-  }
 }
 
 .wrapper-footer {
