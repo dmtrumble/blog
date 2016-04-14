@@ -60,7 +60,7 @@ h2 {
   font-style: italic;
   color: $gray;
   line-height: 1.4;
-  margin: 1em 0 15px;
+  margin: 5px 0 5px;
   padding: 0;
   a {
     color: inherit;
@@ -243,7 +243,7 @@ nav {
   padding-bottom: 1em;
   border-bottom: 1px solid $lightGray;
   a {
-  	color: inherit;
+  	color: $darkGray;
   	&:hover, &:active {
   		text-decoration: underline;
   	}
