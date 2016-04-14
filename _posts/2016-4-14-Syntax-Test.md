@@ -38,4 +38,4 @@ Duis sit amet dui et mauris molestie aliquet. Curabitur pharetra erat in risus b
 
 [lnk-1]: http://www.google.com
 [img-1]: {{ site.baseurl }}/images/config.png
-<sup id="f1">1</sup> Pellentesque semper tellus eu lacus pellentesque malesuada.. [↩](#a1)
+<sup id="f1" class="footnote">1</sup> Pellentesque semper tellus eu lacus pellentesque malesuada.. [↩](#a1)
