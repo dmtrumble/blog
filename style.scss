@@ -33,7 +33,7 @@ body {
   width: 100%;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h3, h4, h5, h6 {
   font-family: $montserrat;
   font-weight: 400;
   color: $darkGray;
@@ -48,7 +48,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 22px;
+  font-size: 26px;
   a {
     color: inherit;
   }
@@ -56,13 +56,20 @@ h1 {
 
 h2 {
   font-size: 20px;
+  font-family: $cardo;
+  font-style: italic;
+  color: $Gray;
+  line-height: 1.4;
+  margin: 1em 0 15px;
+  padding: 0;
+  letter-spacing: -1px;  
   a {
     color: inherit;
   }
 }
 
 h3 {
-  font-size: 18px;
+  font-size: 20px;
 }
 
 h4 {
@@ -77,7 +84,7 @@ p {
 a {
   color: $blue;
   text-decoration: none;
-	cursor: pointer;
+  cursor: pointer;
   &:hover, &:active {
     color: $blue;
   }
