@@ -8,7 +8,7 @@ layout: default
       <a class="home-link" href="{{ site.baseurl }}{{ post.url }}">
         <h1 class="article-title">{{ post.title }}</h1>
         <p class="article-date">{{ post.date | date: "%B %e, %Y"}}</p>
-        <p class="entry">{{ post.content | remove '<p>' | remove '</p>' | strip_html | truncate: 150 }}</p>
+        <div class="entry">{{ post.excerpt }}</div>
       </a>
     </article>
   {% endfor %}
