@@ -313,6 +313,7 @@ footer {
   font-size: 14px;
   a {
     color: $gray;
+    text-decoration: none;
     }
     @include mobile {
     text-align: center;
