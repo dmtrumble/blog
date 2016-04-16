@@ -301,7 +301,7 @@ a.home-link {
 .article-date {
   color: $gray;
   margin: 0 0 15px;
-  font-size: 16px;
+  font-size: 20px;
   font-style: italic;
 }
 
@@ -366,7 +366,7 @@ footer {
   float: none;
   margin-top: 16px; // @TODO: Vertically middle align
   font-family: $cardo;
-  font-size: 18px;
+  font-size: 20px;
   display: block;
 
   @include mobile {
@@ -391,11 +391,11 @@ footer {
 }
 
 .article-title-home {
-  font-size: 80px;
+  font-size: 60px;
 }
 
 .entry-home {
-  font-size: 60px;
+  font-size: 40px;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
