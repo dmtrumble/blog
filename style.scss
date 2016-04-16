@@ -247,8 +247,8 @@ sub {
 }
 
 nav {
-  float: right;
-  margin-top: 12px; // @TODO: Vertically middle align
+  float: left;
+  margin-top: 16px; // @TODO: Vertically middle align
   font-family: $cardo;
   font-size: 18px;
 
@@ -260,7 +260,7 @@ nav {
   }
 
   a {
-    margin-left: 20px;
+    margin-left: 10px;
     color: $darkGray;
     text-align: right;
     font-weight: 300;
@@ -300,8 +300,13 @@ a.home-link {
   margin: .15em, 0, .15em;
 }
 
+.article-title {
+  margin: .5em 0 5px;
+}
+
 .article-date {
   color: $gray;
+  margin: 0 0 15;
 }
 
 .post {
