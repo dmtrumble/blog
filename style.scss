@@ -291,6 +291,7 @@ nav {
 
 a.home-link {
   text-decoration: none;
+  text-align: center;
     &:hover, &:active {
   	  color: $gray;
   }
@@ -336,6 +337,56 @@ footer {
     @include mobile {
     text-align: center;
     }
+}
+
+
+.site-avatar-home {
+  float: none;
+  margin: 0 auto;
+  @include mobile {
+    float: none;
+    margin: 0 auto;
+  }
+
+  img {
+    border-radius: 5px;
+  }
+}
+
+.nav-home {
+  float: none;
+  margin-top: 16px; // @TODO: Vertically middle align
+  font-family: $cardo;
+  font-size: 18px;
+  display: block;
+
+  @include mobile {
+    float: none;
+    margin-top: 9px;
+    display: block;
+    font-size: 16px;
+  }
+
+  a {
+    color: $darkGray;
+    font-weight: 300;
+    text-decoration: none;
+      &:hover, &:active {
+        color: inherit;
+      }
+    @include mobile {
+      margin: 0 10px;
+      color: $darkGray;
+    }
+  }
+}
+
+.article-title-home {
+  font-size: 80px;
+}
+
+.entry-home {
+  font-size: 60px;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
