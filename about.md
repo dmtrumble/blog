@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-IMA Quaker based in Siberia. Amatuer architecture critic. 
+IMA Quaker based in Siberia. Amatuer architect. 
 
 ### Contact me
 
