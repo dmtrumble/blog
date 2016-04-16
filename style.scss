@@ -282,12 +282,6 @@ nav {
 .posts > .post {
   padding-bottom: 1em;
   border-bottom: 1px solid $lightGray;
-  a {
-  	color: $darkGray;
-  	&:hover, &:active {
-  		color: $gray;
-  	}
-  }
 }
 
 .posts > .post:last-child {
@@ -298,6 +292,9 @@ nav {
 a.home-link {
   text-decoration: none;
   margin: .15em, 0, .15em;
+  &:hover, &:active {
+  	color: $gray;
+  }
 }
 
 
