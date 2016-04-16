@@ -29,7 +29,7 @@ body {
 .container {
   margin: 0 auto;
   max-width: 1080px;
-  padding: 0 50px;
+  padding: 0 45px;
   width: 100%;
 }
 
@@ -48,7 +48,7 @@ h1, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 26px;
+  font-size: 30px;
 }
 
 h2 {
@@ -391,11 +391,17 @@ footer {
 }
 
 .article-title-home {
-  font-size: 60px;
+  font-size: 52px;
+    @include mobile {
+    font-size: 36px;
+    }
 }
 
 .entry-home {
-  font-size: 40px;
+  font-size: 35px;
+    @include mobile {
+    font=size: 24px;
+    }
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
