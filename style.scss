@@ -339,6 +339,15 @@ footer {
     }
 }
 
+.masthead {
+  padding: 20px 0;
+  border-bottom: 1px solid $lightGray;
+  text-align: center;
+
+  @include mobile {
+    text-align: center;
+  }
+}
 
 .site-avatar-home {
   float: none;
