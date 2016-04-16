@@ -6,7 +6,7 @@ layout: home
   {% for post in site.posts %}
     <article class="post">
       <a class="home-link" href="{{ site.baseurl }}{{ post.url }}">
-        <h1 class="article-title-home">{{ post.title }}</h1>
+        <h1 class="article-title">{{ post.title }}</h1>
         <p class="article-date">{{ post.date | date: "%B %e, %Y"}}</p>
         <div class="entry-home">{{ post.excerpt | strip_html }}</div>
       </a>

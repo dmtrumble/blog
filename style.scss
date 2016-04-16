@@ -191,6 +191,16 @@ sub {
   }
 }
 
+#home.masthead {
+  padding: 20px 0;
+  border-bottom: 1px solid $lightGray;
+  text-align: center;
+
+  @include mobile {
+    text-align: center;
+  }
+}
+
 .site-avatar {
   float: left;
   width: 50px;
@@ -203,6 +213,17 @@ sub {
     margin: 0 auto;
   }
 
+  img {
+    border-radius: 5px;
+  }
+}
+
+#home.site-avatar {
+  float: none;
+  margin: 0 auto;
+  display: block
+  height: 100px;
+  width: 100px;
   img {
     border-radius: 5px;
   }
@@ -266,7 +287,33 @@ nav {
     font-weight: 300;
     text-decoration: none;
       &:hover, &:active {
-        color: inherit;
+        color: $gray;
+      }
+    @include mobile {
+      margin: 0 10px;
+      color: $darkGray;
+    }
+  }
+}
+
+#home.nav {
+  float: none;
+  margin-top: 16px;
+  font-family: $cardo;
+  font-size: 20px;
+  display: block;
+
+  @include mobile {
+    margin-top: 9px;
+    font-size: 16px;
+  }
+
+  a {
+    color: $darkGray;
+    font-weight: 300;
+    text-decoration: none;
+      &:hover, &:active {
+        color: $gray;
       }
     @include mobile {
       margin: 0 10px;
@@ -297,12 +344,25 @@ a.home-link {
   }
 }
 
+.article-title {
+  font-size: 52px;
+    @include mobile {
+    font-size: 36px;
+    }
+}
 
 .article-date {
   color: $gray;
   margin: 0 0 15px;
   font-size: 20px;
   font-style: italic;
+}
+
+.entry-home {
+  font-size: 35px;
+    @include mobile {
+    font-size: 24px;
+    }
 }
 
 .post {
@@ -339,71 +399,6 @@ footer {
     }
 }
 
-.masthead-home {
-  padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
-  text-align: center;
-
-  @include mobile {
-    text-align: center;
-  }
-}
-
-.site-avatar-home {
-  float: none;
-  margin: 0 auto;
-  @include mobile {
-    float: none;
-    margin: 0 auto;
-  }
-
-  img {
-    border-radius: 5px;
-  }
-}
-
-.nav-home {
-  float: none;
-  margin-top: 16px; // @TODO: Vertically middle align
-  font-family: $cardo;
-  font-size: 20px;
-  display: block;
-
-  @include mobile {
-    float: none;
-    margin-top: 9px;
-    display: block;
-    font-size: 16px;
-  }
-
-  a {
-    color: $darkGray;
-    font-weight: 300;
-    text-decoration: none;
-      &:hover, &:active {
-        color: inherit;
-      }
-    @include mobile {
-      margin: 0 10px;
-      color: $darkGray;
-    }
-  }
-}
-
-.article-title-home {
-  font-size: 52px;
-    @include mobile {
-    font-size: 36px;
-    }
-}
-
-.entry-home {
-  font-size: 35px;
-    @include mobile {
-    font-size: 24px;
-    }
-}
-
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
-@import "highlights";
+//@import "highlights";
