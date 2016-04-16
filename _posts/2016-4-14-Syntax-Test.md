@@ -14,7 +14,7 @@ Maecenas ac lacinia quam, sit amet rhoncus elit. **Donec a tortor** vulputate, s
 * Nam elementum elit vel
 
 
-Aenean eleifend *leo sit amet diam* placerat, in sollicitudin odio volutpat. Curabitur ut ultricies metus, et fermentum ex. Pellentesque semper tellus eu lacus pellentesque malesuada. Nam ultrices, lacus sed efficitur consequat, urna metus aliquet est, a finibus justo est id enim. Aenean tempus quam ac massa efficitur tincidunt.<sup id="a1">[1](#f1)</sup>
+Aenean eleifend *leo sit amet diam* placerat, in sollicitudin odio volutpat. Curabitur ut ultricies metus, et fermentum ex. Pellentesque semper tellus eu lacus pellentesque malesuada. Nam ultrices, lacus sed efficitur consequat, urna metus aliquet est, a finibus justo est id enim. Aenean tempus quam ac massa efficitur tincidunt. <sup id="f1">[1](#fn1)</sup>
 
 ![image title][img-1]
 
@@ -34,8 +34,7 @@ Duis sit amet dui et mauris molestie aliquet. Curabitur pharetra erat in risus b
 2. Nam fringilla
 3. Quisque varius
 
----
 
 [lnk-1]: http://www.google.com
 [img-1]: {{ site.baseurl }}/images/config.png
-<p class="footnote"><sup id="f1">1</sup> Pellentesque semper tellus eu lacus pellentesque malesuada.. <a href="#a1">↩</a></p>
+<div class="footnote"><p id="fn1"><sup>1</sup> Pellentesque semper tellus eu lacus pellentesque malesuada.. <a href="#f1">↩</a></p></div>
