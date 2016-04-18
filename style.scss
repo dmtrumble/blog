@@ -398,10 +398,11 @@ footer {
   font-family: $montserrat;
   font-size: 14px;
   letter-spacing: -1px;
-  margin-left: 10px;
+  
   a {
     color: $gray;
     text-decoration: none;
+    margin-left: 10px;
     }
     @include mobile {
     text-align: center;
