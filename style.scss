@@ -38,7 +38,7 @@ h1, h3, h4, h5, h6 {
   font-weight: 600;
   color: $darkGray;
   line-height: 1.5;
-  margin: .5em 0 5px;
+  margin: .15em 0 5px;
   padding: 0;
   letter-spacing: -1.5px;
 
@@ -357,7 +357,7 @@ h1.article-title {
 
 .article-date {
   color: $gray;
-  margin: 0 0 15px;
+  margin: 20px 0 0;
   font-size: 20px;
   font-style: italic;
 }
@@ -394,7 +394,7 @@ h1.article-title {
 
 footer {
   padding: 20px 0;
-  text-align: left;
+  text-align: center;
   font-family: $montserrat;
   font-size: 14px;
   letter-spacing: -1px;
