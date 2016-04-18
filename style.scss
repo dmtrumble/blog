@@ -29,7 +29,7 @@ body {
 .container {
   margin: 0 auto;
   max-width: 1080px;
-  padding: 0 0px;
+  padding: 0 45px;
   width: 100%;
 }
 
@@ -331,10 +331,6 @@ nav {
   padding-bottom: 1em;
   border-bottom: 1px solid $lightGray;
   text-align: justify;
-  width: 60%;
-  @include mobile {
-    width: 80px;
-    }
 }
 
 .posts > .post:last-child {
