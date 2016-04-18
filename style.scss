@@ -29,7 +29,7 @@ body {
 .container {
   margin: 0 auto;
   max-width: 1080px;
-  padding: 0 45px;
+  padding: 0 0px;
   width: 100%;
 }
 
@@ -330,6 +330,11 @@ nav {
 .posts > .post {
   padding-bottom: 1em;
   border-bottom: 1px solid $lightGray;
+  text-align: justify;
+  width: 60%;
+  @include mobile {
+    width: 80px;
+    }
 }
 
 .posts > .post:last-child {
@@ -339,7 +344,6 @@ nav {
 
 a.home-link {
   text-decoration: none;
-  text-align: center;
   &:hover, &:active {
       color: inherit;
   }
@@ -349,7 +353,6 @@ h1.article-title {
   font-size: 42px;
     &:hover, &:active {
       color: $gray;
-  text-align: justify;
     }
     @include mobile {
     font-size: 32px;
@@ -367,7 +370,6 @@ h1.article-title {
   font-size: 28px;
     &:hover, &:active {
       color: $gray;
-  text-align: justify;
     }
     @include mobile {
     font-size: 22px;
