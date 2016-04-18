@@ -1,5 +1,5 @@
-# My blog stuff
+# Blog stuff
 
-Forked from [Jekyll-Now].
+Via [Jekyll-Now].
 
 [Jekyll-Now]: https://github.com/barryclark/jekyll-now
