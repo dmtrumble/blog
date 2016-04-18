@@ -192,15 +192,6 @@ sub {
   }
 }
 
-#home .masthead {
-  padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
-  text-align: center;
-
-  @include mobile {
-    text-align: center;
-  }
-}
 
 .site-avatar {
   float: left;
@@ -219,16 +210,6 @@ sub {
   }
 }
 
-#home .site-avatar {
-  float: none;
-  margin: 0 auto;
-  display: block;
-  height: 100px;
-  width: 100px;
-  img {
-    border-radius: 5px;
-  }
-}
 
 .site-info {
   float: left;
@@ -269,12 +250,11 @@ sub {
 }
 
 nav {
-  float: none;
   margin-top: 16px;
   font-size: 18px;
   font-family: $montserrat;
   letter-spacing: -.07em;
-  display: block;
+  text-align: center;
 
   @include mobile {
     margin-top: 9px;
@@ -296,31 +276,6 @@ nav {
   }
 }
 
-#home nav {
-  float: none;
-  margin-top: 16px;
-  font-family: $cardo;
-  font-size: 20px;
-  display: block;
-
-  @include mobile {
-    margin-top: 9px;
-    font-size: 16px;
-  }
-
-  a {
-    color: $darkGray;
-    font-weight: 300;
-    text-decoration: none;
-      &:hover, &:active {
-        color: $gray;
-      }
-    @include mobile {
-      margin: 0 10px;
-      color: $darkGray;
-    }
-  }
-}
 
 //
 // .main
