@@ -28,8 +28,8 @@ body {
 
 .container {
   margin: 0 auto;
-  max-width: 1080px;
-  padding: 0 45px;
+  max-width: 960px;
+  padding: 0 4%;
   width: 100%;
 }
 
@@ -48,7 +48,10 @@ h1, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 36px;
+  font-size: 40px;
+  @include mobile {
+    line-height: 30;
+  }
 }
 
 h2 {
@@ -59,10 +62,16 @@ h2 {
   line-height: 1.5;
   margin: 0 0 0;
   padding: 0;
+  @include mobile {
+    line-height: 24;
+  }
 }
 
 h3 {
   font-size: 24px;
+  @include mobile {
+    line-height: 20;
+  }
 }
 
 h4 {
@@ -130,7 +139,7 @@ img {
 
 .footnote {
   color: $gray;
-  font-size: 12px;
+  font-size: 14px;
   padding: 2em 2em 0;
   border-top: 1px solid $lightGray;
 }
@@ -186,14 +195,10 @@ sub {
 .masthead {
   padding: 20px 0;
   border-bottom: 1px solid $lightGray;
-
-  @include mobile {
-    text-align: center;
-  }
+  text-align: center;
 }
 
-
-.site-avatar {
+/* .site-avatar {
   float: left;
   width: 50px;
   height: 50px;
@@ -209,7 +214,6 @@ sub {
     border-radius: 5px;
   }
 }
-
 
 .site-info {
   float: left;
@@ -247,7 +251,7 @@ sub {
   @include mobile {
     margin: 3px 0;
   }
-}
+} */
 
 nav {
   margin-top: 16px;
@@ -255,7 +259,6 @@ nav {
   font-family: $montserrat;
   letter-spacing: -.07em;
   text-align: center;
-
   @include mobile {
     margin-top: 9px;
     font-size: 16px;
@@ -269,10 +272,6 @@ nav {
       &:hover, &:active {
         color: $gray;
       }
-    @include mobile {
-      margin: 0 10px;
-      color: $darkGray;
-    }
   }
 }
 
