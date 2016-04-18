@@ -22,7 +22,7 @@ html {
 
 body {
   background: $white;
-  font: 18px/1.5 $cardo;
+  font: 22px/1.5 $cardo;
   color: $darkGray;
 }
 
@@ -38,9 +38,9 @@ h1, h3, h4, h5, h6 {
   font-weight: 600;
   color: $darkGray;
   line-height: 1.5;
-  margin: .15em 0 5px;
+  margin: .15em 0 .15em;
   padding: 0;
-  letter-spacing: -1.5px;
+  letter-spacing: -.05em;
 
   @include mobile {
     line-height: 1.4;
@@ -48,11 +48,11 @@ h1, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 30px;
+  font-size: 36px;
 }
 
 h2 {
-  font-size: 22px;
+  font-size: 28px;
   font-family: $cardo;
   font-style: italic;
   color: $gray;
@@ -62,11 +62,11 @@ h2 {
 }
 
 h3 {
-  font-size: 20px;
+  font-size: 24px;
 }
 
 h4 {
-  font-size: 16px;
+  font-size: 18px;
   color: $gray;
 }
 
@@ -131,7 +131,7 @@ img {
 .footnote {
   color: $gray;
   font-size: 12px;
-  padding: 2.5em 2em 0;
+  padding: 2em 2em 0;
   border-top: 1px solid $lightGray;
 }
 
@@ -269,22 +269,21 @@ sub {
 }
 
 nav {
-  float: left;
+  float: none;
   margin-top: 16px;
-  font-family: $cardo;
   font-size: 18px;
+  font-family: $montserrat;
+  letter-spacing: -.07em;
+  display: block;
 
   @include mobile {
-    float: none;
     margin-top: 9px;
-    display: block;
     font-size: 16px;
   }
 
   a {
-    margin-left: 10px;
     color: $darkGray;
-    text-align: right;
+    text-align: center;
     font-weight: 300;
     text-decoration: none;
       &:hover, &:active {
@@ -346,24 +345,24 @@ a.home-link {
 }
 
 h1.article-title {
-  font-size: 42px;
+  font-size: 48px;
     &:hover, &:active {
       color: $gray;
     }
     @include mobile {
-    font-size: 32px;
+    font-size: 36px;
     }
 }
 
 .article-date {
   color: $gray;
   margin: 20px 0 0;
-  font-size: 20px;
+  font-size: 22px;
   font-style: italic;
 }
 
 .entry-home {
-  font-size: 28px;
+  font-size: 32px;
     &:hover, &:active {
       color: $gray;
     }
@@ -378,7 +377,7 @@ h1.article-title {
     border-left: 2px solid $gray;
     padding: 0.1em 1em;
     color: $gray;
-    font-size: 18px;
+    font-size: 22px;
     font-style: italic;
   }
 
@@ -397,7 +396,7 @@ footer {
   text-align: center;
   font-family: $montserrat;
   font-size: 14px;
-  letter-spacing: -1px;
+  letter-spacing: -.07em;
   
   a {
     color: $gray;
