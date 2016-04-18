@@ -349,6 +349,7 @@ h1.article-title {
   font-size: 42px;
     &:hover, &:active {
       color: $gray;
+  text-align: justify;
     }
     @include mobile {
     font-size: 32px;
@@ -366,6 +367,7 @@ h1.article-title {
   font-size: 28px;
     &:hover, &:active {
       color: $gray;
+  text-align: justify;
     }
     @include mobile {
     font-size: 22px;
