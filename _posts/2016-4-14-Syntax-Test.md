@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A basic post showing all of the formatting options
+title: A basic post thar shows many of the different the formatting options
 ---
 
 ## Nullam iaculis, libero non fermentum consequat, urna nunc fermentum
