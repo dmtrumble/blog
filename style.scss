@@ -290,6 +290,13 @@ nav {
   border-bottom: none;
 }
 
+#home {
+  margin-top: 130px;
+  @include mobile {
+    margin-top: 122px;
+  }
+}
+
 a.home-link {
   text-decoration: none;
   &:hover, &:active {
