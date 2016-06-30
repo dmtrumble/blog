@@ -1,10 +1,10 @@
 ---
 layout: post
 title: A new website for architects - Books on Buildings!
-excerpt: Architects don't actually read, they just flip through the pictures. For architects and more, there's Books on Buildings
+excerpt: It's well known that architects don't actually read, they just flip through the pictures. You can choose to do whatever you want, at Books on Buildings.
 ---
 
-## Architects don't actually read, they just flip through the pictures. For architects and more, there's [Books on Buildings][1].
+## It's well known that architects don't actually read, they just flip through the pictures. You can choose to do whatever you want, at [Books on Buildings][1] .
 
 
 I made Books on Buildings to gather high quality architectural resources together in one location with a simple interface. It’s for anyone interested in learning about architecture, particularly those who lack access to institutional quality architectural libraries.
