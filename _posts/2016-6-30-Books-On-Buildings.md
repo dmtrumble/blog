@@ -1,9 +1,10 @@
 ---
 layout: post
-title: A new website for architects Books on Buildings
+title: A new website for architects - Books on Buildings!
 ---
 
-## A new catalog of treatises, monographs, pattern books, and more, spanning 400 years of architecture theory. And becasue architects don't actually read - they just flip through for the pictures - thousands of illustrations. Find it here: [Books on Buildings!][1]
+## Architects don't actually read, they just flip through the pictures. For architects and more, there's [Books on Buildings!][1]
+
 
 I made Books on Buildings to gather high quality architectural resources together in one location with a simple interface. It’s for anyone interested in learning about architecture, particularly those who lack access to institutional quality architectural libraries.
 
@@ -19,7 +20,7 @@ Books on Buildings doesn't present new content; all materials were previously av
 
 The book was the medium through which architectural knowledge was liberated from the guild halls of tradesmen to become a publicly accessible liberal art. Putting those books online continues this process by further democratizing access. The goal of [Books on Buildings][1] is to increase knowledge and understanding of architecture, and to highlight the important function of digital libraries. Thanks for visiting. 
 
-\-Dan Trumble 6/30/2016
+\- Dan Trumble 6/30/2016
 
 [1]: http://dtlib.github.io
 [2]: http://www.ub.uni-heidelberg.de/
