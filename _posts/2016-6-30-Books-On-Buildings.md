@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: A new website for architects: Books on Buildings!
 ---
