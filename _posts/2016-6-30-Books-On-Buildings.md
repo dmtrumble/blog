@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A new website for architects: Books on Buildings!
+title: A new website for architects Books on Buildings
 ---
 
 ## A new catalog of treatises, monographs, pattern books, and more, spanning 400 years of architecture theory. And becasue architects don't actually read - they just flip through for the pictures - thousands of illustrations. Find it here: [Books on Buildings!][1]
