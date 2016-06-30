@@ -4,13 +4,13 @@ title: A new website for architects - Books on Buildings!
 excerpt: It's well known that architects don't actually read, they just flip through the pictures. You can choose to do whatever you want, at Books on Buildings.
 ---
 
-## It's well known that architects don't actually read, they just flip through the pictures. You can choose to do whatever you want, at [Books on Buildings][1] .
+## It's well known that architects don't actually read, they just flip through the pictures. You can choose to do whatever you want, at [Books on Buildings.][1]
 
 
 I made Books on Buildings to gather high quality architectural resources together in one location with a simple interface. It’s for anyone interested in learning about architecture, particularly those who lack access to institutional quality architectural libraries.
 
 
-Books on Buildings doesn't contain new content; it was all available from the many good institutions engaged in the cost-and-labor-intensive process of digitizing their collections. But visiting even a handful of sites to find a resource is inconvenient, and the proprietary interfaces of each application leads to a fragmented experience. Also, a subject-specific collection makes discovering relevant material easier. The [Books on Buildings][1] catalog was collected from the following libraries:
+Books on Buildings doesn't contain new content; it was already available from the many good institutions engaged in the cost-and-labor-intensive process of digitizing their collections. But visiting even a handful of sites to find a resource is inconvenient, and the proprietary interfaces of each application leads to a fragmented experience. Also, a subject-specific collection makes discovering relevant material easier. The [Books on Buildings][1] catalog was collected from the following libraries:
 	
 	
 * [Universitätsbibliothek Heidelberg][2]
@@ -25,7 +25,7 @@ Books on Buildings doesn't contain new content; it was all available from the ma
 The book is the medium through which architectural knowledge was liberated from the guild halls of tradesmen to become an open and accessible liberal art. To host those books online further continues that process. The goal of [Books on Buildings][1] is to increase knowledge and understanding of architecture, and to highlight the importantance of digital libraries. Thanks for visiting. 
 
 
-\- Dan Trumble 6/30/2016
+\- Dan Trumble June 30, 2016
 
 [1]: http://dtlib.github.io
 [2]: http://www.ub.uni-heidelberg.de/
