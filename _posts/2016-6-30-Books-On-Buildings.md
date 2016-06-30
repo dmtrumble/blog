@@ -9,13 +9,13 @@ I made Books on Buildings to gather high quality architectural resources togethe
 
 Books on Buildings doesn't present new content; all materials were previously available from the many good institutions engaged in the cost-and-labor-intensive process of digitizing their collections. But visiting even a handful of sites to find a resource is cumbersome, and the proprietary interfaces of each application creates a fragmented experience. Also, a subject-specific collection makes discovering relevant material easier. The [Books on Buildings][1] catalog was gathered from the following digital libraries:
 	
-*[Universitätsbibliothek Heidelberg][2]
-*[Institut National d'Histoire de l'Art][3]
-*[Bibliothèque nationale de France][4]
-*[Elektronische Bibliothek Schweiz][5]
-*[University of Cologne and the German Archaeological Institute][6]
-*[The Internet Archive][7]  (also an aggregator, with contributing institutions including The Smithsonian Libraries and the Getty Research Institute)
-*[Hesburgh Libraries - University of Notre Dame][8]
+* [Universitätsbibliothek Heidelberg][2]
+* [Institut National d'Histoire de l'Art][3]
+* [Bibliothèque nationale de France][4]
+* [Elektronische Bibliothek Schweiz][5]
+* [University of Cologne and the German Archaeological Institute][6]
+* [The Internet Archive][7]  (also an aggregator, with contributing institutions including The Smithsonian Libraries and the Getty Research Institute)
+* [Hesburgh Libraries - University of Notre Dame][8]
 
 The book was the medium through which architectural knowledge was liberated from the guild halls of tradesmen to become a publicly accessible liberal art. Putting those books online continues this process by further democratizing access. The goal of [Books on Buildings][1] is to increase knowledge and understanding of architecture, and to highlight the important function of digital libraries. Thanks for visiting. 
 
