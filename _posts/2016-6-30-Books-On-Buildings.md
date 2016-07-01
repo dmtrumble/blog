@@ -25,7 +25,7 @@ Books on Buildings doesn't supply new content; everything was already available 
 The goal of [Books on Buildings][1] is to increase knowledge and understanding of architecture, and to highlight the importantance of digital libraries. The book is the medium through which architectural knowledge was liberated from the guild halls of tradesmen and became availaible for public use. Providing online access to those same books is a fitting extension of this process. Please send any comments or suggestions, and thanks for visiting. 
 
 
-Dan Trumble
+Dan Trumble  
 June 30, 2016
 
 [1]: http://dtlib.github.io
