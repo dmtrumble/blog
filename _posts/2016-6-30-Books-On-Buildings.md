@@ -1,16 +1,16 @@
 ---
 layout: post
 title: A new website for architects - Books on Buildings!
-excerpt: It's well known that architects don't actually read, they just flip through the pictures. But they sure do write a lot! See for yourself at Books on Buildings.
+excerpt: It's well known that architects don't actually read books, they just flip through the pictures. But they sure write a lot! See for yourself at Books on Buildings.
 ---
 
-## It's well known that architects don't actually read, they just flip through the pictures. But they sure do write a lot! See for yourself at [Books on Buildings.][1]
+## It's well known that architects don't actually read books, they just flip through the pictures. But they sure write a lot! See for yourself at [Books on Buildings.][1]
 
 
-I made Books on Buildings to gather high quality architectural information together in one location with a simple interface. It’s for anyone interested in learning about architecture, particularly those who lack access to institutional quality architectural libraries.
+I made Books on Buildings to gather high quality architectural resources together in one location with a simple interface. It’s for anyone interested in learning about architecture, particularly those who lack access to institutional quality architectural libraries.
 
 
-Books on Buildings doesn't supply new content; everything was already available from the many good institutions engaged in the cost-and-labor-intensive process of digitizing their collections. But visiting even a handful of sites to find material is inconvenient, and the experience was fragmented because each application has a different interface. Also, a subject-specific collection makes discovering relevant material easier. The [Books on Buildings][1] catalog was collected from the following libraries:
+Books on Buildings doesn't supply new content; everything was already available from the many good institutions engaged in the cost/labor-intensive process of digitizing their collections. But visiting even a handful of sites to find material is inconvenient, and the experience was fragmented because each application has a different interface. Also, a subject-specific collection makes discovering relevant material easier. The [Books on Buildings][1] catalog was collected from the following libraries:
 	
 	
 * [Universitätsbibliothek Heidelberg][2]
@@ -18,14 +18,15 @@ Books on Buildings doesn't supply new content; everything was already available 
 * [Bibliothèque nationale de France][4]
 * [Elektronische Bibliothek Schweiz][5]
 * [University of Cologne and the German Archaeological Institute][6]
-* [The Internet Archive][7]  (also an aggregator, with contributing institutions including The Smithsonian Libraries and the Getty Research Institute)
+* [The Internet Archive][7]  (contributing institutions include The Smithsonian Libraries and the Getty Research Institute)
 * [Hesburgh Libraries - University of Notre Dame][8]
 
 
-The goal of [Books on Buildings][1] is to increase knowledge and understanding of architecture, and to highlight the importantance of digital libraries. The book is the medium through which architectural knowledge was liberated from the guild halls of tradesmen to become availaible for public use. Providing online access to those same books is a fitting extension of this process. Please send any comments or suggestions, and thanks for visiting. 
+The goal of [Books on Buildings][1] is to increase knowledge and understanding of architecture, and to highlight the importantance of digital libraries. The book is the medium through which architectural knowledge was liberated from the guild halls of tradesmen and became availaible for public use. Providing online access to those same books is a fitting extension of this process. Please send any comments or suggestions, and thanks for visiting. 
 
 
-\- Dan Trumble June 30, 2016
+Dan Trumble
+June 30, 2016
 
 [1]: http://dtlib.github.io
 [2]: http://www.ub.uni-heidelberg.de/
