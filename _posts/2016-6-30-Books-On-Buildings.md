@@ -1,13 +1,13 @@
 ---
 layout: post
-title: A new website for architects - Books on Buildings!
-excerpt: Architects don't actually read books, they just look at the pictures. But they write a lot!
+title: A new website for architects - Books on Buildings
+excerpt: A simple website for discovering and viewing architectural books
 ---
 
-## Architects don't actually read books, they just look at the pictures. But they write a lot!
+## Architects don't actually read books, they just look at the pictures. But they sure can write!
 
 
-If you don't have a huge architecture library to call your own, these digital versions have almost everything:
+[Books on Buildings][1] is a simple website for discovering and viewing architectural books. It pulls content from the following sites:
 
 
 * [Universitätsbibliothek Heidelberg][2]
@@ -19,13 +19,7 @@ If you don't have a huge architecture library to call your own, these digital ve
 * [Hesburgh Libraries - University of Notre Dame][8]
 
 
-[Books on Buildings][1] pulls the architectural books from these and others into one place, with a simpler interface. 
-
-Find it here: [Books on Buildings][1] Thanks for visiting!
-
-DT. 
-July, 1, 2016
-
+It's for anyone interested in the theory, practice, or history of architecture, who may or may not access to a good (phycial) library. Find it here: [Books on Buildings][1] Thanks for visiting!
 
 [1]: http://dtlib.github.io
 [2]: http://www.ub.uni-heidelberg.de/
