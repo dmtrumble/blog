@@ -7,7 +7,7 @@ excerpt: A simple website for discovering and viewing architectural books
 ## Architects don't actually read books, they just look at the pictures. But they sure can write!
 
 
-[Books on Buildings][1] is a simple website for discovering and viewing architectural books. It pulls content from the following sites:
+[Books on Buildings][1] is a simple website for discovering and viewing architectural books. It pulls relevant content from the following sites to make easier to find what you need:
 
 
 * [Universitätsbibliothek Heidelberg][2]
@@ -18,8 +18,7 @@ excerpt: A simple website for discovering and viewing architectural books
 * [The Internet Archive][7]
 * [Hesburgh Libraries - University of Notre Dame][8]
 
-
-It's for anyone interested in the theory, practice, or history of architecture, who may or may not access to a good (phycial) library. Find it here: [Books on Buildings][1] Thanks for visiting!
+It's for anyone interested in the theory, practice, or history of architecture, and who might not have access to a good library. Try it out here: [Books on Buildings][1] Thanks for visiting!
 
 [1]: http://dtlib.github.io
 [2]: http://www.ub.uni-heidelberg.de/
