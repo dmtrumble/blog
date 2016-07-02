@@ -10,7 +10,8 @@ excerpt: A simple website for discovering and viewing architectural books
 [Books on Buildings][1] is a simple website for discovering and viewing architectural books. It pulls relevant content from the following sites to make easier to find what you need:
 
 
-* [Universitätsbibliothek Heidelberg][2]  * [Institut National d'Histoire de l'Art][3]
+* [Universitätsbibliothek Heidelberg][2]  
+* [Institut National d'Histoire de l'Art][3]
 * [Bibliothèque nationale de France][4]
 * [Elektronische Bibliothek Schweiz][5]
 * [University of Cologne and the German Archaeological Institute][6]
