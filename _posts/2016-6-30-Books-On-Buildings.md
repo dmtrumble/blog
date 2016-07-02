@@ -1,7 +1,7 @@
 ---
 layout: post
-title: A new website for architects - Books on Buildings
-excerpt: A simple website for discovering and viewing architectural books
+title: Books on Buildings - a new website for architects
+excerpt: For discovering and viewing architectural books
 ---
 
 ## Architects don't actually read books, they only look at the pictures. They love to write, though!
