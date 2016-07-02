@@ -4,7 +4,7 @@ title: Books on Buildings - a new website for architects
 excerpt: For discovering and viewing architectural books
 ---
 
-## Architects don't actually read books, they only look at the pictures. They love to write, though!
+## Architects don't actually read books, they just look at the pictures. They love to write, though!
 
 
 [Books on Buildings][1] is a simple website for discovering and viewing architectural books. It pulls relevant content from the following sites to make it easier to find what you need:
