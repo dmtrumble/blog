@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Books on Buildings - a new website for architects
+title: Books on Buildings, a new website for architects
 excerpt: For discovering and viewing architectural books
 ---
 
@@ -18,7 +18,7 @@ excerpt: For discovering and viewing architectural books
 * [The Internet Archive][7]
 * [Hesburgh Libraries - University of Notre Dame][8]
 
-It's for anyone interested in the theory, practice, or history of architecture. Try it out here: **[Books on Buildings][1]** Thanks for visiting!
+It's for anyone interested in the theory, practice, or history of architecture. Try it out here: **[Books on Buildings][1]** 
 
 [1]: http://dtlib.github.io
 [2]: http://www.ub.uni-heidelberg.de/
