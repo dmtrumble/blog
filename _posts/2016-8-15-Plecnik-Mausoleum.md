@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: A Study of Plečnik’s unbuilt Mausoleum for Prešeren
 excerpt: Test excerpt
