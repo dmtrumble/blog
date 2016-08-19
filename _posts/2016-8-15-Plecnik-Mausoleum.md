@@ -9,19 +9,19 @@ excerpt: A digital re-creation of an unbuilt monument
 One of Jože Plečnik's best unbuilt designs is this mausoleum for the poet France Prešeren, at Vrba, Slovenia. I made a digital model from the surviving drawings to help visualize what could have been. [Click here to explore in your browser][lnk-2], or [download the rhino file.][lnk-1]
 
 ![orginal sketch][img-1]
-Plečnik's drawing.
+Plečnik's drawing
 
 ![exploded perspective][img-4]
-Exploded view.
+Exploded view
 
 ![elevation perspective][img-2]
-Elevation.
+Elevation
 
 ![section][img-3]
-Section.
+Section
 
 ![rcp][img-6]
-Reflected ceiling plan.
+Reflected ceiling plan
 
 [Download high resolution images][lnk-1]
 
