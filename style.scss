@@ -31,7 +31,7 @@ body {
 
 .container {
   margin: 0 auto;
-  max-width: 1200px;
+  max-width: 100vh;
   padding: 0 4%;
   width: 100%;
 }
@@ -358,7 +358,7 @@ footer {
   font-family: $montserrat;
   font-size: 14px;
   letter-spacing: -.07em;
-  
+
   a {
     color: $gray;
     text-decoration: none;
