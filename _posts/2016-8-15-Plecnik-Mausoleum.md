@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Building Plečnik’s Mausoleum for Prešeren
-excerpt: A digital re-creation of an unbuilt monument
+title: Plečnik’s Mausoleum for Prešeren
+excerpt: A digital model of an unbuilt monument
 ---
 
 ## I work for seven hours a day, so I can then drink for two -France Prešeren
 
-One of Jože Plečnik's best unbuilt designs is this mausoleum for the poet France Prešeren, at Vrba, Slovenia. I made a digital model from the surviving drawings to help visualize what could have been. [Click here to explore in your browser][lnk-2], or [download the rhino file.][lnk-1]
+A model of Jože Plečnik's mausoleum for the poet France Prešeren, at Vrba, Slovenia. Rhino model from original drawing. [View Model in browser][lnk-2] [.3dm download][lnk-1]
 
 ![orginal sketch][img-1]
 Plečnik's drawing
@@ -23,6 +23,9 @@ Section
 ![rcp][img-6]
 Reflected ceiling plan
 
+![cutaway][img-7]
+Cutaway
+
 [Download high resolution images][lnk-1]
 
 [lnk-1]: https://drive.google.com/folderview?id=0B3fdHD1DBpRNUkNuV09teUdjZHc&usp=sharing
@@ -33,3 +36,4 @@ Reflected ceiling plan
 [img-4]: {{ site.baseurl }}/images/plecnik/exploded.png
 [img-5]: {{ site.baseurl }}/images/plecnik/interior.png
 [img-6]: {{ site.baseurl }}/images/plecnik/rcp.png
+[img-6]: {{ site.baseurl }}/images/plecnik/cutaway.png
