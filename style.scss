@@ -9,6 +9,7 @@
 @import "variables";
 @import url(https://fonts.googleapis.com/css?family=Cardo:400,400italic,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat);
+@import url('https://fonts.googleapis.com/css?family=Lato:700');
 
 // Syntax highlighting @import is at the bottom of this file
 
@@ -54,15 +55,14 @@ h1 {
 }
 
 h2 {
-  font-size: 28px;
-  font-family: $cardo;
-  font-style: italic;
+  font-size: 22px;
+  font-family: $lato;
   color: $gray;
   line-height: 1.5;
   margin: 0 0 0;
   padding: 0;
   @include mobile {
-    font-size: 24px;
+    font-size: 18px;
   }
 }
 
@@ -84,6 +84,7 @@ p {
 
 a {
   color: inherit;
+  font-family: $lato;
   text-decoration: underline;
   cursor: pointer;
   &:hover, &:active {
