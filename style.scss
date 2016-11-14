@@ -78,6 +78,14 @@ h4 {
   color: $gray;
 }
 
+h5 {
+  font-size: 15px;
+  text-align: right;
+  @include mobile {
+    font-size: 11px;
+  }
+}
+
 p {
   margin: 25px 0;
 }
