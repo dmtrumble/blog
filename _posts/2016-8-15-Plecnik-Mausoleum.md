@@ -6,7 +6,7 @@ excerpt: A digital model of an unbuilt monument
 
 ## I work for seven hours a day, so I can then drink for two -France Prešeren
 
-A model of Jože Plečnik's mausoleum for the poet France Prešeren, at Vrba, Slovenia. Rhino model from original drawing. **[View in browser][lnk-2] [Download .3dm][lnk-1] [High resolution images][lnk-1]**
+A model of Jože Plečnik's mausoleum for the poet France Prešeren, at Vrba, Slovenia. Rhino model from original drawing. **[View in browser][lnk-2] | [Download .3dm][lnk-1] | [High resolution images][lnk-1]**
 
 ![orginal sketch][img-1]
 ##### Plečnik's drawing
