@@ -48,8 +48,8 @@ h1 {
   font-weight: 700;
   line-height: 1.00;
   color: $darkerGray;
-  margin-top: .135em;
-  margin-bottom: .5em;
+  margin-top: .25em;
+  margin-bottom: .25em;
   padding: 0;
   letter-spacing: -.028em;
   word-spacing: -0.034em;
@@ -65,7 +65,7 @@ h2 {
   font-weight: 400;
   line-height: 1.45;
   color: $gray;
-  margin-top: 1.5em;
+  margin-top: 0.75em;
   margin-bottom: 1.8em;
   letter-spacing: -.015em;
   word-spacing: -0.10em;
@@ -149,7 +149,7 @@ h6 {
   line-height: 1.00;
   color: $gray;
   margin-top: 0.00em;
-  margin-bottom: 0.00em;
+  margin-bottom: 0.25em;
   letter-spacing: -0.05em;
   word-spacing: 0.00em;
   @include mobile {
