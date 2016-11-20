@@ -113,8 +113,8 @@ h5 {
   font-weight: 700;
   color: $darkGray;
   line-height: 1.25;
-  margin-top: .15em;
-  margin-bottom: 0.00em;
+  margin-top: 0.0em;
+  margin-bottom: 0.3em;
   padding: 0;
   letter-spacing: -.05em;
   font-size: 15px;
@@ -164,8 +164,8 @@ p {
   font-weight: 400;
   line-height: 1.45;
   color: $darkGray;
-  margin-top: 0.00em;
-  margin-bottom: 1.00em;
+  margin-top: 0.50em;
+  margin-bottom: 0.50em;
   letter-spacing: -0.017em;
   word-spacing: -0.010em;
   @include mobile {
