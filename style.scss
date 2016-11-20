@@ -49,7 +49,7 @@ h1 {
   line-height: 1.00;
   color: $darkerGray;
   margin-top: .135em;
-  margin-bottom: .225em;
+  margin-bottom: .5em;
   padding: 0;
   letter-spacing: -.028em;
   word-spacing: -0.034em;
@@ -61,18 +61,17 @@ h1 {
 // SUBTITLE
 h2 {
   font-family: $cardo;
-  font-size: 22px;
-  font-style: italic;
+  font-size: 24px;
   font-weight: 400;
-  line-height: 1.1;
+  line-height: 1.45;
   color: $gray;
-  margin-top: 0;
+  margin-top: 1.5em;
   margin-bottom: 1.8em;
-  letter-spacing: -.025em;
-  word-spacing: 0.00em;
+  letter-spacing: -.015em;
+  word-spacing: -0.10em;
   padding: 0;
   @include mobile {
-    font-size: 16px;
+    font-size: 18px;
   }
 }
 
