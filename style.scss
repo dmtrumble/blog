@@ -7,8 +7,7 @@
 
 @import "reset";
 @import "variables";
-@import url(https://fonts.googleapis.com/css?family=Cardo:400,400italic,700);
-@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700');
+@import 'https://fonts.googleapis.com/css?family=Montserrat:700,400|Cardo:400,400italic,700';
 
 // Syntax highlighting @import is at the bottom of this file
 
@@ -18,15 +17,12 @@
 
 html {
   font-size: 125%;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 body {
   background: $white;
-  font: 22px/1.5 $cardo;
-  color: $darkGray;
-  @include mobile {
-    font-size: 18px;
-  }
 }
 
 .container {
@@ -36,7 +32,42 @@ body {
   width: 100%;
 }
 
-h1, h3, h4, h5, h6 {
+h1 {
+  font-family: $montserrat;
+  font-size: 44px;
+  font-weight: 700;
+  line-height: 1.00;
+  color: $darkerGray;
+  margin-top: .135em;
+  margin-bottom: .225em;
+  padding: 0;
+  letter-spacing: -.03em;
+  word-spacing: -0.34em;
+  @include mobile {
+    font-size: 33px;
+  }
+}
+
+// SUBTITLE
+h2 {
+  font-family: $cardo;
+  font-size: 22px;
+  font-style: italic;
+  font-weight: 400;
+  line-height: 1.1;
+  color: $gray;
+  margin-top: 0;
+  margin-bottom: 1.8em;
+  letter-spacing: -.025em;
+  word-spacing: 0.00em;
+  padding: 0;
+  @include mobile {
+    font-size: 16px;
+  }
+}
+
+h3 {
+  font-size: 24px;
   font-family: $montserrat;
   font-weight: 700;
   color: $darkGray;
@@ -44,42 +75,34 @@ h1, h3, h4, h5, h6 {
   margin: .15em 0 0 0;
   padding: 0;
   letter-spacing: -.05em;
-}
-
-h1 {
-  font-size: 40px;
-  @include mobile {
-    font-size: 30px;
-  }
-}
-
-h2 {
-  font-size: 24px;
-  font-family: $cardo;
-  font-style: italic;
-  font-weight: 400;
-  color: $gray;
-  line-height: 1.5;
-  margin: 0 0 0;
-  padding: 0;
   @include mobile {
     font-size: 20px;
   }
 }
 
-h3 {
-  font-size: 24px;
-  @include mobile {
-    font-size: 20px;
-  }
-}
-
+// BIG TEXT
 h4 {
-  font-size: 18px;
-  color: $gray;
+  font-family: $cardo;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 1.40;
+  color: $darkGray;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  letter-spacing: -0.03em;
+  word-spacing: -0.06em;
+  text-transform: none;
 }
 
+// CAPTION
 h5 {
+  font-family: $montserrat;
+  font-weight: 700;
+  color: $darkGray;
+  line-height: 1.25;
+  margin: .15em 0 0 0;
+  padding: 0;
+  letter-spacing: -.05em;
   font-size: 15px;
   font-weight: 400;
   text-align: right;
@@ -88,8 +111,52 @@ h5 {
   }
 }
 
+// BYLINE
+h6 {
+  font-family: $montserrat;
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 1.20;
+  color: $darkGray;
+  margin-top: 0.3em;
+  margin-bottom: 0.3em;
+  letter-spacing: -0.045em;
+  word-spacing: 0.00px;
+  text-transform: none;
+  @include mobile {
+    font-size: 12px;
+  }
+}
+
+.date {
+  font-family: $cardo;
+  font-size: 19px;
+  font-weight: 400;
+  font-style: italic;
+  line-height: 1.00;
+  color: $gray;
+  margin-top: 0.00em;
+  margin-bottom: 0.00em;
+  letter-spacing: 0.05em;
+  word-spacing: 0.00em;
+  @include mobile {
+    font-size: 14px;
+  }
+}
+
 p {
-  margin: 25px 0 0 0;
+  font-family: $cardo;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 1.45;
+  color: $darkGray;
+  margin-top: 0.00em;
+  margin-bottom: 1.00em;
+  letter-spacing: -0.017em;
+  word-spacing: -0.010em;
+  @include mobile {
+    font-size: 18px;
+  }
 }
 
 a {
@@ -136,20 +203,6 @@ img {
   border-radius: 3px;
 }
 
-// Fixes images in popup boxes from Google Translate
-.gmnoprint img {
-  max-width: none;
-}
-
-.date {
-  font-style: italic;
-  color: $gray;
-  font-size: 20px;
-  @include mobile {
-    font-size: 16px;
-  }
-}
-
 .footnote {
   color: $gray;
   font-size: 14px;
@@ -191,6 +244,11 @@ sub {
 
 .clearfix:after {
     clear: both;
+}
+
+// Fixes images in popup boxes from Google Translate
+.gmnoprint img {
+  max-width: none;
 }
 
 /*********************/
