@@ -8,28 +8,29 @@ excerpt: A digital model of an unbuilt monument
 
 A model of Jože Plečnik's mausoleum for the poet France Prešeren, at Vrba, Slovenia. Rhino model from original drawing. **[View in browser][lnk-2] \| [Download .3dm][lnk-1] \| [High resolution images][lnk-1]**
 
-![orginal sketch][img-1]
 ##### Plečnik's drawing
 
-![exploded perspective][img-4]
+![orginal sketch][img-1]
 
 ##### Exploded view
 
-![elevation perspective][img-2]
+![exploded perspective][img-4]
 
 ##### Elevation
 
-![section][img-3]
+![elevation perspective][img-2]
 
 ##### Section
 
-![rcp][img-6]
+![section][img-3]
 
 ##### Reflected ceiling plan
 
-![cutaway][img-7]
+![rcp][img-6]
 
 ##### Cutaway
+
+![cutaway][img-7]
 
 [lnk-1]: https://drive.google.com/folderview?id=0B3fdHD1DBpRNUkNuV09teUdjZHc&usp=sharing
 [lnk-2]: {{ site.baseurl }}/model
