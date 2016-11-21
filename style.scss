@@ -28,8 +28,8 @@ body {
   font-weight: 400;
   line-height: 1.45;
   color: $darkGray;
-  letter-spacing: -0.017em;
-  word-spacing: -0.010em;
+  letter-spacing: -0.020em;
+  word-spacing: -0.012em;
   @include mobile {
     font-size: 18px;
   }
@@ -51,8 +51,8 @@ h1 {
   margin-top: .25em;
   margin-bottom: .125em;
   padding: 0;
-  letter-spacing: -.028em;
-  word-spacing: -0.034em;
+  letter-spacing: -.035em;
+  word-spacing: -0.030em;
   @include mobile {
     font-size: 33px;
   }
@@ -99,8 +99,8 @@ h4 {
   color: $darkGray;
   margin-top: 0px;
   margin-bottom: 0px;
-  letter-spacing: -0.017em;
-  word-spacing: -0.01em;
+  letter-spacing: -0.02em;
+  word-spacing: -0.012em;
   text-transform: none;
   @include mobile {
     font-size: 18px;
