@@ -26,7 +26,7 @@ body {
   font-family: $cardo;
   font-size: 24px;
   font-weight: 400;
-  line-height: 1.45;
+  line-height: 1.35;
   color: $darkGray;
   letter-spacing: -0.020em;
   word-spacing: -0.012em;
@@ -150,7 +150,7 @@ h6 {
   line-height: 1.00;
   color: $gray;
   margin-top: 0.00em;
-  margin-bottom: 1.5em;
+  margin-bottom: 1.0em;
   letter-spacing: -0.05em;
   word-spacing: 0.00em;
   @include mobile {
