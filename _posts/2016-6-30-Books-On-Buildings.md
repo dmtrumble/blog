@@ -6,8 +6,16 @@ excerpt: For discovering and viewing architectural books
 
 ## Architects don't actually read books, they just look at the pictures. They write a lot, though!
 
+The creative and intellectual heart of any good architecture school or practice is the architectural library. Even more so than buildings, the architectural treatise is the fundamental gene in the transmission of architectural knowledge. From Vitruvius to LeCorbusier, Architects have produced books to promote their practice, influence the practice of other architects, and record built works of the past. 
 
-**[Books on Buildings][1]** is a simple website for discovering and viewing architectural books. It pulls content from the following sites into a unified point of access:
+
+And so access to this knowledge integral the vitality of an architectural practice. Digital libraries have the ability to democratise this access. Particularly valuable for students and younger designers,  a digital architectural library can provide exposure to the entire history of architectural thought without the budgetary or logistic requirements of maintaining a physical library. 
+
+
+Through the various institutions listed below, many of the most important historical works of architectural scholarship have been digitized and published online. But the lack of a centralized location for strictly architectural works made finding a specific resource prohibitively time consuming. 
+
+
+**[Books on Buildings][1]** is a tool I built to defragment the process of accessing these works. It pulls content from the following websites into a simple and easy interface:
 
 
 * [Universitätsbibliothek Heidelberg][2]  
@@ -18,7 +26,7 @@ excerpt: For discovering and viewing architectural books
 * [The Internet Archive][7]
 * [Hesburgh Libraries - University of Notre Dame][8]
 
-It's for anyone interested in the theory, practice, or history of architecture. Try it out here: **[Books on Buildings][1]**
+Try it out here: **[Books on Buildings][1]**
 
 [1]: http://dtlib.github.io
 [2]: http://www.ub.uni-heidelberg.de/
