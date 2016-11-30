@@ -6,13 +6,13 @@ excerpt: For discovering and viewing architectural books
 
 ## Architects don't actually read books, they just look at the pictures. They write a lot, though!
 
-The creative and intellectual heart of any good architecture school or practice is the architectural library. Even more so than buildings, the architectural treatise is the fundamental gene in the transmission of architectural knowledge. From Vitruvius to LeCorbusier, Architects have produced books to promote their practice, influence the practice of other architects, and record built works of the past. 
+Any good architectural project probably began, in one way or another, in a good architectural library.  Even more so than buildings, the architectural treatise is the fundamental mode of transmission for architectural knowledge. From Vitruvius to Le Corbusier, Architects have produced books to promote their practice, influence the practice of other architects, and record built works of the past.
 
 
-And so access to this knowledge integral the vitality of an architectural practice. Digital libraries have the ability to democratise this access. Particularly valuable for students and younger designers,  a digital architectural library can provide exposure to the entire history of architectural thought without the budgetary or logistic requirements of maintaining a physical library. 
+Naturally, having access to this knowledge is integral the vitality of an architectural practice. Digital libraries have the ability to democratize this access. Particularly valuable for students and younger designers,  a digital architectural library can provide exposure to the entire history of architectural thought without the budgetary or logistic requirements of maintaining a physical library. 
 
 
-Through the various institutions listed below, many of the most important historical works of architectural scholarship have been digitized and published online. But the lack of a centralized location for strictly architectural works made finding a specific resource prohibitively time consuming. 
+Through the various institutions listed below, many of the most important historical works of architectural scholarship have been digitized and published online. But the lack of a centralized location for strictly architectural works made finding a specific resource prohibitively time consuming.
 
 
 **[Books on Buildings][1]** is a tool I built to defragment the process of accessing these works. It pulls content from the following websites into a simple and easy interface:
