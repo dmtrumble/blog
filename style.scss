@@ -66,7 +66,7 @@ h2 {
   font-weight: 400;
   line-height: 1.45;
   color: $gray;
-  margin-top: 0.00em;
+  margin-top: 0.55em;
   margin-bottom: 2.0em;
   letter-spacing: -.015em;
   word-spacing: -0.10em;
@@ -219,7 +219,7 @@ img {
   margin-bottom: 0px;
 }
 
-.footnote {
+#fn1 {
   color: $gray;
   font-size: 14px;
   padding: 2em 2em 0;
@@ -249,6 +249,21 @@ sub {
   color: $black;
   background: $lightGray;
 }
+
+th, td {
+  font-size: 75%;
+  padding: .35em;
+  border-bottom: 1px solid $gray;
+  text-align: center;
+}
+
+th {
+  font-family: $montserrat;
+  font-weight: 700;
+  padding-top: 1.5em;
+}
+
+tr:hover {background-color: $lightGray}
 
 // Nicolas Gallagher's micro clearfix hack
 // http://nicolasgallagher.com/micro-clearfix-hack/
