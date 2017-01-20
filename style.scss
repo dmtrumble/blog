@@ -383,7 +383,8 @@ nav {
 //
 
 .posts > .post {
-  padding-bottom: 1em;
+  padding-bottom: 1.5em;
+  margin: 1.5em;
   border-bottom: 1px solid $lightGray;
   text-align: center;
 }
@@ -408,29 +409,29 @@ a.home-link {
 }
 
 h1.article-title {
-  font-size: 48px;
+  font-size: 40px;
     &:hover, &:active {
       color: $gray;
     }
     @include mobile {
-    font-size: 36px;
+    font-size: 32px;
     }
 }
 
 .article-date {
   color: $gray;
   margin: 20px 0 0;
-  font-size: 22px;
+  font-size: 21px;
   font-style: italic;
 }
 
 .entry-home {
-  font-size: 32px;
+  font-size: 28px;
     &:hover, &:active {
       color: $gray;
     }
     @include mobile {
-    font-size: 22px;
+    font-size: 20px;
     }
 }
 
