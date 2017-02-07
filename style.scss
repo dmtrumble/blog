@@ -63,15 +63,15 @@ h1 {
 // SUBTITLE
 h2 {
   font-family: $cardo;
-  font-size: 24px;
+  font-size: 21px;
   font-style: italic;
   font-weight: 400;
-  line-height: 1.45;
+  line-height: 1.55;
   color: $gray;
   margin-top: 0.55em;
   margin-bottom: 2.0em;
-  letter-spacing: -.015em;
-  word-spacing: -0.10em;
+  letter-spacing: -.3px;
+  word-spacing: -0.1px;
   padding: 0;
   @include mobile {
     font-size: 18px;
