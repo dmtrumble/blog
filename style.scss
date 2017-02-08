@@ -244,20 +244,6 @@ sub {
   bottom: -0.25em;
 }
 
-.post {
-  blockquote {
-    margin: 2em .8em;
-    border-left: 2px solid $gray;
-    padding: 0.1em 1em;
-    color: $gray;
-    font-size: 19px;
-    letter-spacing: -0.25px;
-    font-style: italic;
-    @include mobile {
-    font-size: 18px;
-    }
-  }
-
 // Specify the color of the selection
 ::-moz-selection {
   color: $black;
@@ -456,6 +442,19 @@ h1.article-title {
     font-size: 20px;
     }
 }
+.post {
+  blockquote {
+    margin: 2em .8em;
+    border-left: 2px solid $gray;
+    padding: 0.1em 1em;
+    color: $gray;
+    font-size: 19px;
+    letter-spacing: -0.25px;
+    font-style: italic;
+    @include mobile {
+    font-size: 18px;
+    }
+  }
 
   .comments {
     margin-top: 10px;
