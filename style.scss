@@ -7,7 +7,7 @@
 
 @import "reset";
 @import "variables";
-@import 'https://fonts.googleapis.com/css?family=Montserrat:700,400|Vesper+Libre:400,500,700,900';
+@import 'https://fonts.googleapis.com/css?family=Montserrat:700,400|Vesper+Libre:400,700|Cardo:400,400i';
 
 // Syntax highlighting @import is at the bottom of this file
 
@@ -64,9 +64,8 @@ h1 {
 h2 {
   font-family: $vesper;
   font-size: 18px;
-  font-style: italic;
   font-weight: 400;
-  line-height: 1.6;
+  line-height: 1.2;
   color: $gray;
   margin-top: 0.55em;
   margin-bottom: 2.0em;
@@ -145,36 +144,22 @@ h6 {
 }
 
 .date {
-  font-family: $vesper;
-  font-size: 17px;
+  font-family: $cardo;
+  font-size: 16px;
   font-weight: 400;
   font-style: italic;
   line-height: 1.00;
   color: $gray;
   margin-top: 0.00em;
   margin-bottom: 1.0em;
-  letter-spacing: -0.25px;
-  word-spacing: -0.10px;
   @include mobile {
-    font-size: 17px;
+    font-size: 15px;
   }
 }
 
 p {
-  font-family: $vesper;
-  font-size: 19px;
-  font-weight: 400;
-  line-height: 1.6;
-  color: $darkGray;
   margin-top: 0.75em;
   margin-bottom: 0.25em;
-  letter-spacing: -0.25px;
-  word-spacing: -0.1px;
-  @include mobile {
-    font-size: 18px;
-    letter-spacing: -0.2px;
-    word-spacing: -0.1px;
-  }
 }
 
 a {
@@ -426,6 +411,7 @@ h1.article-title {
   color: $gray;
   margin: 20px 0 0;
   font-size: 21px;
+  font-family: $cardo;
   letter-spacing: -0.25px;
   font-style: italic;
   @include mobile {
@@ -450,7 +436,7 @@ h1.article-title {
     color: $gray;
     font-size: 19px;
     letter-spacing: -0.25px;
-    font-style: italic;
+    font-style: bold;
     @include mobile {
     font-size: 18px;
     }
