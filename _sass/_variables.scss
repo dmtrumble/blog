@@ -15,10 +15,9 @@ $lightGray: #eee;
 $white: #fff;
 
 // Font stacks
-$vesper: 'Vesper Libre', serif;
 $montserrat: 'Montserrat', sans-serif;
-$cardo: 'Cardo', serif;
-$lus: 'Lusitana',serif;
+$serif: 'Sorts Mill Goudy', serif;
+
 
 // Mobile breakpoints
 @mixin mobile {
