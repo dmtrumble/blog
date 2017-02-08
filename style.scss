@@ -7,7 +7,7 @@
 
 @import "reset";
 @import "variables";
-@import 'https://fonts.googleapis.com/css?family=Montserrat:700,400|Vesper+Libre:400,700|Cardo:400,400i|Lusitana:400,700';
+@import 'https://fonts.googleapis.com/css?family=Montserrat:700,400|Sorts+Mill+Goudy:400,400i';
 
 // Syntax highlighting @import is at the bottom of this file
 
@@ -23,7 +23,7 @@ html {
 
 body {
   background: $white;
-  font-family: $lus;
+  font-family: $serif;
   font-size: 19px;
   font-weight: 400;
   line-height: 1.6;
@@ -62,7 +62,7 @@ h1 {
 
 // SUBTITLE
 h2 {
-  font-family: $lus;
+  font-family: $serif;
   font-size: 18px;
   font-weight: 400;
   line-height: 1.2;
@@ -93,7 +93,7 @@ h3 {
 
 // BIG TEXT
 h4 {
-  font-family: $lus;
+  font-family: $serif;
   font-size: 24px;
   font-weight: 400;
   line-height: 1.45;
@@ -144,7 +144,7 @@ h6 {
 }
 
 .date {
-  font-family: $lus;
+  font-family: $serif;
   font-size: 16px;
   font-weight: 400;
   font-style: italic;
@@ -411,7 +411,7 @@ h1.article-title {
   color: $gray;
   margin: 20px 0 0;
   font-size: 21px;
-  font-family: $lus;
+  font-family: $serif;
   letter-spacing: -0.25px;
   font-style: italic;
   @include mobile {
