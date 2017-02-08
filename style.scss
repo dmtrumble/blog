@@ -23,7 +23,7 @@ html {
 
 body {
   background: $white;
-  font-family: $cardo;
+  font-family: $lus;
   font-size: 19px;
   font-weight: 400;
   line-height: 1.6;
@@ -62,7 +62,7 @@ h1 {
 
 // SUBTITLE
 h2 {
-  font-family: $cardo;
+  font-family: $lus;
   font-size: 18px;
   font-weight: 400;
   line-height: 1.2;
@@ -93,7 +93,7 @@ h3 {
 
 // BIG TEXT
 h4 {
-  font-family: $cardo;
+  font-family: $lus;
   font-size: 24px;
   font-weight: 400;
   line-height: 1.45;
@@ -144,7 +144,7 @@ h6 {
 }
 
 .date {
-  font-family: $cardo;
+  font-family: $lus;
   font-size: 16px;
   font-weight: 400;
   font-style: italic;
@@ -411,7 +411,7 @@ h1.article-title {
   color: $gray;
   margin: 20px 0 0;
   font-size: 21px;
-  font-family: $cardo;
+  font-family: $lus;
   letter-spacing: -0.25px;
   font-style: italic;
   @include mobile {
