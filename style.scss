@@ -48,8 +48,8 @@ h1 {
   font-weight: 700;
   line-height: 1.00;
   color: $darkerGray;
-  margin-top: .25em;
-  margin-bottom: .125em;
+  margin-top: .35em;
+  margin-bottom: .5em;
   padding: 0;
   letter-spacing: -.035em;
   word-spacing: -0.030em;
@@ -65,7 +65,7 @@ h2 {
   font-weight: 400;
   line-height: 1.5;
   color: $gray;
-  margin-top: 0.55em;
+  margin-top: 0.0em;
   margin-bottom: 2.0em;
   letter-spacing: -.25px;
   word-spacing: -0.1px;
@@ -148,16 +148,16 @@ h6 {
   font-style: italic;
   line-height: 1.00;
   color: $gray;
-  margin-top: 0.00em;
-  margin-bottom: 1.0em;
+  margin-bottom: 0.0em;
+  margin-top: 0.0em
   @include mobile {
     font-size: 18px;
   }
 }
 
 p {
-  margin-top: 0.75em;
-  margin-bottom: 0.25em;
+  margin-top: 0.0em;
+  margin-bottom: 1.25em;
 }
 
 a {
@@ -201,8 +201,8 @@ strong, b {
 
 img {
   max-width: 100%;
-  border-radius: 3px;
-  margin-top: 25px;
+  border-radius: 6px;
+  margin-top: 0px;
   margin-bottom: 0px;
 }
 
@@ -227,6 +227,9 @@ sub {
   bottom: -0.25em;
 }
 
+table {
+  margin-bottom: 1.25em;
+}
 // Specify the color of the selection
 ::-moz-selection {
   color: $black;
@@ -397,7 +400,7 @@ a.home-link {
 
 h1.article-title {
   font-size: 46px;
-  margin: .375em 0 .625em;
+  margin: .15em 0 .625em;
     &:hover, &:active {
       color: $gray;
     }
