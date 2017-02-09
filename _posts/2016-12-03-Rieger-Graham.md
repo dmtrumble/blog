@@ -1,10 +1,10 @@
 ---
 layout: post
-title: A losing proposal for the Rieger Graham Prize
+title: A proposal for the Rieger Graham Prize
 excerpt: My unsuccessful application to study classical housing projects in Rome
 ---
 
-## In January of 2016, I unsuccessfully applied for a 3 month fellowship in Rome called the Reiger Graham prize, which is sponsored by the Institute of Classical Architecture and Art (ICAA). The application required a written proposal for a project involving research, documentation and design. I wasn’t chosen, but here is my proposal anyway.
+## I applied for a fellowship in Rome sponsored by the Institute of Classical Architecture and Art (ICAA). The application required a written proposal for a project involving research, documentation and design. Here's mine.
 
 
 The unification of Italy in 1870 triggered a sharp increase Rome’s population as workers, professionals, and bureaucrats began migrating to the new capital in search of opportunity.<sup id="f1">[1](#fn1)</sup> The lack of existing infrastructure and inability of the nascent private sector to meet the demand for housing led to the creation of a groundbreaking new building type: the public housing development.
