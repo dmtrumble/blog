@@ -109,11 +109,11 @@ h4 {
 // CAPTION
 h5 {
   font-family: $montserrat;
-  font-weight: 700;
   color: $darkGray;
   line-height: 1.25;
-  margin-top: -2.0em;
+  margin-top: -1.5em;
   margin-bottom: 2.5em;
+  margin-right: 10%;
   padding: 0;
   letter-spacing: -.05em;
   font-size: 15px;
@@ -200,10 +200,12 @@ strong, b {
 }
 
 img {
-  max-width: 100%;
-  border-radius: 6px;
+  max-width: 80%;
+  border-radius: 5px;
   margin-top: 0px;
   margin-bottom: 0px;
+  margin: auto;
+  display: block;
 }
 
 #fn1 {
