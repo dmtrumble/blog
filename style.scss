@@ -24,14 +24,14 @@ html {
 body {
   background: $white;
   font-family: $serif;
-  font-size: 21px;
+  font-size: 22px;
   font-weight: 400;
   line-height: 1.6;
   color: $darkGray;
   letter-spacing: -0.25px;
   word-spacing: -0.1px;
   @include mobile {
-    font-size: 20px;
+    font-size: 21px;
   }
 }
 
@@ -44,7 +44,7 @@ body {
 
 h1 {
   font-family: $montserrat;
-  font-size: 39px;
+  font-size: 40px;
   font-weight: 700;
   line-height: 1.00;
   color: $darkerGray;
@@ -54,7 +54,7 @@ h1 {
   letter-spacing: -.035em;
   word-spacing: -0.030em;
   @include mobile {
-    font-size: 33px;
+    font-size: 34px;
   }
 }
 
