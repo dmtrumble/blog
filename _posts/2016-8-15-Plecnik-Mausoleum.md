@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Jože Plečnik - Round Mausoleum for Prešeren
-excerpt: A digital model of an unbuilt monument
+title: Jože Plečnik's Round Mausoleum for Prešeren
+excerpt: Modeling excercise - A digital reconstruction of an unbuilt monument
 ---
 
-Digital model, 2017  
-Design: 1959, unbuilt  
+Digital model, 2016  
+Design: 1949, unbuilt  
 Near Vrba, Slovenia  
 **[WEB][lnk-2]**   **[.3DM][lnk-1]**   **[PNG][lnk-1]**
 
