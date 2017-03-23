@@ -12,7 +12,7 @@ Near Vrba, Slovenia
 ![orginal sketch][img-1]
 
 
-In a reinterpretation of the classical tholos typology, Plečnik's rustic exterior recalls the sturdy and understated vernacular structures typical of pastoral Slovene villages like Vrba, Prešeren’s hometown. The elegantly refined inner sanctuary creates an environment for contemplative mourning. This juxtaposition of scale, character, and geometry between inside and out, particularly in the processional context of a mausoleum, represents both the transformation of the Slovenian culture from subjugation to independence, and the life of the heroic, but troubled, poet.  
+In an imaginitive reinterpretation of the classical tholos typology, a robust exterior massing recalls the "sturdy and understated vernacular" structures typical of pastoral Slovene villages like Vrba, Prešeren’s hometown. In contrast, the elegantly sinuous inner sanctuary provides a environment for contemplative mourning. This juxtaposition of scale, character, and geometry between inside and out, particularly in the processional context of a mausoleum, represents both the transformation of the Slovenian culture from subjugation to independence, and the life of the heroic, but troubled, poet.  
 
 Digital model from original drawings. (Rhino 5)  
 
