@@ -1,27 +1,26 @@
 ---
 layout: post
-title: Plečnik’s Mausoleum for Prešeren
+title: Jože Plečnik - Round Mausoleum for Prešeren
 excerpt: A digital model of an unbuilt monument
 ---
 
-## I work for seven hours a day, so I can then drink for two -France Prešeren
-
-The work of Serbian architect Jose Plečnik is marked by his creative and modern variations on the canonical vocabulary of Western classicism. But rather than arbitrary deviation for the sake of artistic hubris, his innovations were a means of communicating semantic content. In the context of interwar Yugoslavia, his work served to address the legitimacy of a distinct Slovene national identity. Today, he is revered as a hero of the Slovenian people.
-
-
-So one can imagine the personal and cultural significance of this unbuilt design for the mausoleum of Slovene National Poet, France Prešeren, from 1952:
+Digital model, 2017
+Near Vrba, Slovenia 
+Design: 1959, unbuilt
 
 
 ![orginal sketch][img-1]
 
 
-In a reinterpretation of the classical tholos typology, the exterior recalls the sturdy and understated vernacular structures typical of pastoral Slovene villages like Vrba, Prešeren’s hometown. The elegantly refined inner sanctuary creates an environment for contemplative mourning. This juxtaposition of scale, character, and geometry between inside and out, particularly in the processional context of a mausoleum, represents both the transformation of the Slovenian culture from subjugation to independence, and the life of the heroic, but troubled, poet.  
+In a reinterpretation of the classical tholos typology, Plečnik's rustic exterior recalls the sturdy and understated vernacular structures typical of pastoral Slovene villages like Vrba, Prešeren’s hometown. The elegantly refined inner sanctuary creates an environment for contemplative mourning. This juxtaposition of scale, character, and geometry between inside and out, particularly in the processional context of a mausoleum, represents both the transformation of the Slovenian culture from subjugation to independence, and the life of the heroic, but troubled, poet.  
 
 
-To study the composition in three dimensions, and with the aim of bringing more attention to this underappreciated masterpiece, I built a digital model from the original sketch. **[View it in your browser here,][lnk-2]** or **[download the .3dm file.][lnk-1]**
+Digital model from original drawings. (Rhino 5)  
 
 
-The following still images were rendered from the model. **[Download them here in high resolution.][lnk-1]**
+**[WEB][lnk-2]**   **[.3DM][lnk-1]**   **[PNG][lnk-1]**
+
+
 
 ![exploded perspective][img-4]
 
