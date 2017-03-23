@@ -4,23 +4,17 @@ title: Jože Plečnik - Round Mausoleum for Prešeren
 excerpt: A digital model of an unbuilt monument
 ---
 
-Digital model, 2017
-Near Vrba, Slovenia 
-Design: 1959, unbuilt
-
+Digital model, 2017  
+Design: 1959, unbuilt  
+Near Vrba, Slovenia  
+**[WEB][lnk-2]**   **[.3DM][lnk-1]**   **[PNG][lnk-1]**
 
 ![orginal sketch][img-1]
 
 
 In a reinterpretation of the classical tholos typology, Plečnik's rustic exterior recalls the sturdy and understated vernacular structures typical of pastoral Slovene villages like Vrba, Prešeren’s hometown. The elegantly refined inner sanctuary creates an environment for contemplative mourning. This juxtaposition of scale, character, and geometry between inside and out, particularly in the processional context of a mausoleum, represents both the transformation of the Slovenian culture from subjugation to independence, and the life of the heroic, but troubled, poet.  
 
-
 Digital model from original drawings. (Rhino 5)  
-
-
-**[WEB][lnk-2]**   **[.3DM][lnk-1]**   **[PNG][lnk-1]**
-
-
 
 ![exploded perspective][img-4]
 
