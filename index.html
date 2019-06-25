@@ -5,11 +5,11 @@ layout: home
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
-      <a class="home-link" href="{{ site.baseurl }}{{ post.url }}">
-        <!-- <p class="article-date">{{ post.date | date: "%B %e, %Y"}}</p> -->
-        <h1 class="article-title">{{ post.title }}</h1>
-        <div class="entry-home">{{ post.excerpt | strip_html }}</div>
-      </a>
+        <a href="{{ site.baseurl }}{{ post.url }}">
+          <h4>{{ post.date | date: "%B %e, %Y"}}</h4>
+          <h1>{{ post.title }}</h1>
+          <div>{{ post.excerpt | strip_html }}</div>
+        </a>
     </article>
   {% endfor %}
 </div>
